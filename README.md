@@ -2,8 +2,12 @@
 
 ## 1V1专属
 
-* [韩遂](https://github.com/HistoryZhang/SgsSkin/tree/master/1v1专属/韩遂)
-* [何进](https://github.com/HistoryZhang/SgsSkin/tree/master/1v1专属/何进)
-* [牛金](https://github.com/HistoryZhang/SgsSkin/tree/master/1v1专属/牛金)
+* [韩遂](./1v1专属/韩遂)
+* [何进](./1v1专属/何进)
+* [牛金](./1v1专属/牛金)
 
 ## SP
+
+* [卑弥呼](./SP/卑弥呼)
+* [步骘](./SP/步骘)
+* [蔡文姬](./SP/蔡文姬)
